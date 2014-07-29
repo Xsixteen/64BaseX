@@ -1,3 +1,4 @@
+package Debug;
 
 public class Debugger {
 		private static boolean enabled = true;

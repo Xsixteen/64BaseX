@@ -1,3 +1,5 @@
+import Debug.Debugger;
+
 
 public class BaseX {
 	private String output = "";
@@ -54,7 +56,7 @@ public class BaseX {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BaseX obj = new BaseX("leasure.");
-		
+	//	System.out.println(obj.message());
 	}
 
 }
